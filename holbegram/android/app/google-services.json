@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872226165370",
+    "project_id": "holbegram-buzz",
+    "storage_bucket": "holbegram-buzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872226165370:android:061afd5a0fc1f1b6c3e1c3",
+        "android_client_info": {
+          "package_name": "com.buzz.holbegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD89xCP6ba4OyzsC4__1IntE11htQsoVfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
